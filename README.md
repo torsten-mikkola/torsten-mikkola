@@ -15,6 +15,7 @@ I'm a student at Purdue University pursuing a BS in Computer Science with a mino
 ### Education
 
 - **Purdue University, West Lafayette, IN**
+  
   *BS in Computer Science* - May 2029
 
 ---
