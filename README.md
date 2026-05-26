@@ -8,7 +8,7 @@ I'm a student at Purdue University pursuing a BS in Computer Science with a mino
 
 ### Experience
 
-- **Machine Learning Researcher, Purdue University (Jan 2025 - Present)**
+- **Machine Learning Researcher, Purdue University (Jan 2026 - Present)**
 
 ---
 
