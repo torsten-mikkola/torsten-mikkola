@@ -21,6 +21,11 @@ I'm a student at Purdue University pursuing a BS in Computer Science with a mino
 
 ---
 
+### Projects
+
+- **Fishing Report**
+  *Website designed for fly fishermen in Idaho to easily access information about local rivers, reccommending the best ones based on condition and hatch.
+
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/torsten-mikkola-651588366/)
 - [Email](mailto:torstenmikkola@gmail.com)
