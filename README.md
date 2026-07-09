@@ -25,7 +25,7 @@ I'm a student at Purdue University pursuing a BS in Computer Science with a mino
 
 - **Riffle: The Fly Guide**
   
-  *Website designed for fly fishermen in Idaho to easily access information about local rivers, reccommending the best ones based on condition and hatch.*
+  *Website designed for fly fishermen in Idaho to easily access information about local rivers, reccommending the best rivers and flies based on condition and hatch.*
 
 ---
 
