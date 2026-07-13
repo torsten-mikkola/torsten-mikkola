@@ -29,6 +29,19 @@ I'm a student at Purdue University pursuing a BS in Computer Science with a mino
 
 ---
 
+### Skills
+
+- **Languages**
+
+  *Python, C, Java, SQL, R*
+
+- **Libraries**
+
+  *Numpy, Pandas, SQLite*
+
+---
+
+
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/torsten-mikkola-651588366/)
 - [Email](mailto:torstenmikkola@gmail.com)
