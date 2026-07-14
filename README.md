@@ -14,7 +14,7 @@ I'm a student at Purdue University pursuing a BS in Computer Science with a mino
 
 ### Education
 
-- **Purdue University** — BS in Computer Science, Minor in Mathematics *(May 2029)*
+- **Purdue University** — BS in Computer Science, Minor in Mathematics *(Expected May 2029)*
 
 ---
 
