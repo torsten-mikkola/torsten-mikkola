@@ -8,16 +8,13 @@ I'm a student at Purdue University pursuing a BS in Computer Science with a mino
 
 ### Experience
 
-- **Machine Learning Researcher, Purdue University (Jan 2026 - Present)**
+- **Machine Learning Researcher**, Purdue University *(Jan 2026 - Present)*
 
 ---
 
 ### Education
 
-- **Purdue University, West Lafayette, IN**
-  
-  *BS in Computer Science* - May 2029
-  *Minor in Mathematics*
+- **Purdue University** — BS in Computer Science, Minor in Mathematics *(May 2029)*
 
 ---
 
@@ -31,17 +28,13 @@ I'm a student at Purdue University pursuing a BS in Computer Science with a mino
 
 ### Skills
 
-- **Languages**
+- **Languages:** *Python, C, Java, SQL, R*
 
-  *Python, C, Java, SQL, R*
-
-- **Libraries**
-
-  *Numpy, Pandas, SQLite*
+- **Libraries:** *Numpy, Pandas, SQLite*
 
 ---
 
 
-### Contact Me
+### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/torsten-mikkola-651588366/)
 - [Email](mailto:torstenmikkola@gmail.com)
