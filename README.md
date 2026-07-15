@@ -34,5 +34,5 @@ I'm a Computer Science student and Mathematics minor at Purdue University. I bui
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn:** [linkedin.com/in/torsten-mikkola](https://www.linkedin.com/in/torsten-mikkola-651588366/)
+*   **LinkedIn:** [linkedin.com/in/torsten-mikkola](https://www.linkedin.com/in/torsten-mikkola)
 *   **Email:** [torstenmikkola@gmail.com](mailto:torstenmikkola@gmail.com)
