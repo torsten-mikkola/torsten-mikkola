@@ -29,7 +29,7 @@ I'm a Computer Science student and Mathematics minor at Purdue University. I bui
 ### 📂 Featured Repositories
 
 *   **[Riffle: The Fly Guide](https://github.com/torsten-mikkola/riffle-fly-guide)** - An automated environmental data pipeline and web platform for real-time fly fishing conditions in Idaho. 
-*   **[Portfolio Analytics & Tax-Loss Simulator](https://github.com/torsten-mikkola/portfolio-tax-simulator)** - A Python and SQLite portfolio tracker that identifies tax-loss harvesting opportunities. 
+*   **Portfolio Analytics & Tax-Loss Simulator** - A Python and SQLite portfolio tracker that identifies tax-loss harvesting opportunities. 
 
 ---
 
